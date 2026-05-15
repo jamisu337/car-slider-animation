@@ -35,8 +35,11 @@ O projeto foi construído puramente com as linguagens base da web, sem o uso de 
 <img width="1439" height="759" alt="image" src="https://github.com/user-attachments/assets/ec49e303-9f8e-49ae-917c-598caa24b23a" />
 
 ### Versão Mobile & Menu Sidebar
-<img width="500" height="760" alt="image" src="https://github.com/user-attachments/assets/67a7993f-78eb-4534-ab6b-a5834f7e9b3b" />
-<img width="500" height="760" alt="image" src="https://github.com/user-attachments/assets/0671d9aa-247b-4e9d-8c7c-2cb9d55b33bb" />
+
+<p align="center">
+  <img width="48%" src="https://github.com/user-attachments/assets/67a7993f-78eb-4534-ab6b-a5834f7e9b3b" alt="Preview Mobile" />
+  <img width="48%" src="https://github.com/user-attachments/assets/0671d9aa-247b-4e9d-8c7c-2cb9d55b33bb" alt="Menu Sidebar Aberto" />
+</p>
 
 ## Como Executar
 
