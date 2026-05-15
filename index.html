@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=League+Gothic&family=Poppins:wght@200;300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>FP Selection</title>
+</head>
+<body>
+    <header>
+        <img src="./imagens/logo.png" alt="logo-fp-selection">
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Vehicles</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+            <div class="menu-icon" id="menu-icon">
+                <svg width="35" height="35" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M4 6H20M4 12H20M4 18H20" stroke="#beff1b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </div>
+        </nav>
+    </header>
+
+    <section class="container">
+        <div class="list">
+            <div class="item active">
+                <div class="car-img">
+                    <img src="./imagens/1.png" alt="carro-vermelho">
+                </div>
+                <div class="content">
+                    <p class="car-information">New Arrival</p>
+                    <h2>Ferrari 488</h2>
+                    <p class="description">
+                        A Ferrari 488 GTB traz de volta o nome clássico da Ferrari, com o 488 indicando a cilindrada unitária do motor, enquanto o GTB significa Gran Turismo Berlinetta.
+                    </p>
+                    <button class="information">See more</button>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="car-img">
+                    <img src="./imagens/2.png" alt="carro-azul">
+                </div>
+                <div class="content">
+                    <p class="car-information">New Arrival</p>
+                    <h2>Lamborghini</h2>
+                    <p class="description">
+                        A Lamborghini é uma fabricante italiana de automóveis esportivos de luxo e alto desempenho com sede em Sant'Agata Bolognese.
+                    </p>
+                    <button class="information">See more</button>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="car-img">
+                    <img src="./imagens/3.png" alt="carro-amarelo">
+                </div>
+                <div class="content">
+                    <p class="car-information">New Arrival</p>
+                    <h2>Porsche</h2>
+                    <p class="description">
+                        A Porsche é uma das marcas de automóveis mais famosas e desejadas do mundo, conhecida por seus carros esportivos de luxo e alto desempenho.
+                    </p>
+                    <button class="information">See more</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="arrows">
+            <button id="prev"><img src="./imagens/arrow.png" alt="seta-esquerda"></button>
+            <button id="next"><img src="./imagens/arrow.png" alt="seta-direita"></button>
+        </div>
+
+        <div class="indicators">
+            <div class="number">01</div>
+            <ul>
+                <li class="active"></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
