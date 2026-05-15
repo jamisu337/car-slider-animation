@@ -4,14 +4,6 @@
   Uma landing page moderna, dinâmica e totalmente responsiva para exibição de carros esportivos de luxo (Ferrari, Lamborghini e Porsche). Desenvolvida com animações fluidas e efeitos visuais premium.
 </p>
 
-<p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-tecnologias-utilizadas">Tecnologias</a> •
-  <a href="#-demonstração">Demonstração</a> •
-  <a href="#-como-executar">Como Executar</a>
-</p>
-
 ---
 
 ## Sobre o Projeto
